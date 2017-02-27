@@ -1,0 +1,360 @@
+a:9:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.5.12";s:10:"yiiVersion";s:10:"2.0.11-dev";s:11:"application";a:5:{s:3:"yii";s:10:"2.0.11-dev";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.5.12";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:7:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:48:"D:\wamp\www\Eclass\vendor/yiisoft/yii2-bootstrap";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:50:"D:\wamp\www\Eclass\vendor/yiisoft/yii2-swiftmailer";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/debug";s:44:"D:\wamp\www\Eclass\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:8:"@yii/gii";s:42:"D:\wamp\www\Eclass\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:10:"@yii/faker";s:44:"D:\wamp\www\Eclass\vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/base";s:51:"D:\wamp\www\Eclass\vendor/kartik-v/yii2-krajee-base";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:61:"D:\wamp\www\Eclass\vendor/kartik-v/yii2-widget-datetimepicker";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:500;s:14:"requestHeaders";a:9:{s:4:"host";s:9:"localhost";s:10:"connection";s:10:"keep-alive";s:13:"cache-control";s:9:"max-age=0";s:6:"accept";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:110:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36";s:15:"accept-encoding";s:19:"gzip, deflate, sdch";s:15:"accept-language";s:14:"zh-CN,zh;q=0.8";s:6:"cookie";s:280:"advanced-backend=m8cs7s1bj4cs9cmpfkdmgnqio0; _csrf-backend=ad96cabcfdc1a35e0fd4248d5ae6bec9f2e7ee6b256bd8d2722eeb52de399d30a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22KhfdTWea1Ek48A9Tp5KLcYib-hj9TSGK%22%3B%7D; advanced-frontend=l8p1o391sdsodrd6b8i1i6fia0";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:10:"PHP/5.5.12";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:9:"test/test";s:6:"action";s:49:"frontend\controllers\TestController::actionTest()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:36:{s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:110:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36";s:20:"HTTP_ACCEPT_ENCODING";s:19:"gzip, deflate, sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"zh-CN,zh;q=0.8";s:11:"HTTP_COOKIE";s:280:"advanced-backend=m8cs7s1bj4cs9cmpfkdmgnqio0; _csrf-backend=ad96cabcfdc1a35e0fd4248d5ae6bec9f2e7ee6b256bd8d2722eeb52de399d30a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_csrf-backend%22%3Bi%3A1%3Bs%3A32%3A%22KhfdTWea1Ek48A9Tp5KLcYib-hj9TSGK%22%3B%7D; advanced-frontend=l8p1o391sdsodrd6b8i1i6fia0";s:4:"PATH";s:539:"C:\Program Files\Java\jdk1.7.0_04\bin;C:\Program Files\Java\jdk1.7.0_04\jre\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\wamp\bin\php\php5.5.12;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\ProgramData\ComposerSetup\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:79:"<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:31:"Apache/2.4.9 (Win64) PHP/5.5.12";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:12:"D:/wamp/www/";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:12:"D:/wamp/www/";s:12:"SERVER_ADMIN";s:17:"admin@example.com";s:15:"SCRIPT_FILENAME";s:41:"D:/wamp/www/Eclass/frontend/web/index.php";s:11:"REMOTE_PORT";s:5:"62996";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:11:"r=test/test";s:11:"REQUEST_URI";s:42:"/Eclass/frontend/web/index.php?r=test/test";s:11:"SCRIPT_NAME";s:30:"/Eclass/frontend/web/index.php";s:8:"PHP_SELF";s:30:"/Eclass/frontend/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1481426626.3859999;s:12:"REQUEST_TIME";i:1481426626;}s:3:"GET";a:1:{s:1:"r";s:9:"test/test";}s:4:"POST";a:0:{}s:6:"COOKIE";a:3:{s:16:"advanced-backend";s:26:"m8cs7s1bj4cs9cmpfkdmgnqio0";s:13:"_csrf-backend";s:139:"ad96cabcfdc1a35e0fd4248d5ae6bec9f2e7ee6b256bd8d2722eeb52de399d30a:2:{i:0;s:13:"_csrf-backend";i:1;s:32:"KhfdTWea1Ek48A9Tp5KLcYib-hj9TSGK";}";s:17:"advanced-frontend";s:26:"l8p1o391sdsodrd6b8i1i6fia0";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:26:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1481426626.426065;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1481426626.4261279;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1481426626.433502;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1481426626.434679;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1481426626.4351771;i:4;a:0:{}}i:5;a:5:{i:0;s:56:"Pretty URL not enabled. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1481426626.437561;i:4;a:0:{}}i:6;a:5:{i:0;s:28:"Route requested: 'test/test'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1481426626.437618;i:4;a:0:{}}i:7;a:5:{i:0;s:23:"Route to run: test/test";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1481426626.439533;i:4;a:0:{}}i:8;a:5:{i:0;s:65:"Running action: frontend\controllers\TestController::actionTest()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1481426626.4398241;i:4;a:0:{}}i:9;a:5:{i:0;s:20:"SELECT * FROM `main`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4550099;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:10;a:5:{i:0;s:68:"Opening DB connection: mysql:host=localhost;dbname=database_homework";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1481426626.4551129;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:15;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `main`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.463505;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:18;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'main' AND kcu.table_name = 'main'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4685211;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:21;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `climate_factor`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.5768609;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'climate_factor' AND kcu.table_name = 'climate_factor'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.5811379;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:79:"INSERT INTO `climate_factor` (`temp`, `RH`, `rain`, `wind`) VALUES (0, 0, 0, 0)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.5831549;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:36;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `space_factor`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.676686;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'space_factor' AND kcu.table_name = 'space_factor'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6867161;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:51:"INSERT INTO `space_factor` (`X`, `Y`) VALUES (0, 0)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.691205;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:41;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:38:"SHOW FULL COLUMNS FROM `forest_factor`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7309411;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'forest_factor' AND kcu.table_name = 'forest_factor'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.743154;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:76:"INSERT INTO `forest_factor` (`FFMC`, `DMC`, `DC`, `ISI`) VALUES (0, 0, 0, 0)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7487371;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:48;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `date_factor`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.790911;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:51;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'date_factor' AND kcu.table_name = 'date_factor'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.801686;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:54;a:5:{i:0;s:66:"INSERT INTO `date_factor` (`month`, `day`) VALUES ('month', 'day')";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.8076341;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:53;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:57;a:5:{i:0;s:827:"exception 'yii\base\ErrorException' with message 'Class 'frontend\controllers\Loss' not found' in D:\wamp\www\Eclass\frontend\controllers\TestController.php:55
+Stack trace:
+#0 D:\wamp\www\Eclass\vendor\yiisoft\yii2\base\InlineAction.php(57): ::call_user_func_array:{D:\wamp\www\Eclass\vendor\yiisoft\yii2\base\InlineAction.php:57}()
+#1 D:\wamp\www\Eclass\vendor\yiisoft\yii2\base\Controller.php(156): yii\base\InlineAction->runWithParams()
+#2 D:\wamp\www\Eclass\vendor\yiisoft\yii2\base\Module.php(524): yii\base\Controller->runAction()
+#3 D:\wamp\www\Eclass\vendor\yiisoft\yii2\web\Application.php(102): yii\base\Module->runAction()
+#4 D:\wamp\www\Eclass\vendor\yiisoft\yii2\base\Application.php(373): yii\web\Application->handleRequest()
+#5 D:\wamp\www\Eclass\frontend\web\index.php(17): yii\base\Application->run()
+#6 {main}";i:1;i:1;i:2;s:25:"yii\base\ErrorException:1";i:3;d:1481426626.86412;i:4;a:0:{}}}}s:9:"profiling";a:3:{s:6:"memory";i:10242224;s:4:"time";d:0.492095947265625;s:8:"messages";a:32:{i:11;a:5:{i:0;s:68:"Opening DB connection: mysql:host=localhost;dbname=database_homework";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1481426626.455195;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:12;a:5:{i:0;s:68:"Opening DB connection: mysql:host=localhost;dbname=database_homework";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1481426626.456533;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:13;a:5:{i:0;s:20:"SELECT * FROM `main`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4566331;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:20:"SELECT * FROM `main`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.462821;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `main`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4636271;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `main`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.466862;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'main' AND kcu.table_name = 'main'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.468647;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'main' AND kcu.table_name = 'main'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4692421;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `climate_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.5769751;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `climate_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.5802331;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'climate_factor' AND kcu.table_name = 'climate_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.58125;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'climate_factor' AND kcu.table_name = 'climate_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.581913;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:79:"INSERT INTO `climate_factor` (`temp`, `RH`, `rain`, `wind`) VALUES (0, 0, 0, 0)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.613066;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:36;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:79:"INSERT INTO `climate_factor` (`temp`, `RH`, `rain`, `wind`) VALUES (0, 0, 0, 0)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.671982;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:36;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `space_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6771309;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `space_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6850729;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'space_factor' AND kcu.table_name = 'space_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.687063;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'space_factor' AND kcu.table_name = 'space_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6886079;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:51:"INSERT INTO `space_factor` (`X`, `Y`) VALUES (0, 0)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.6914821;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:41;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:51:"INSERT INTO `space_factor` (`X`, `Y`) VALUES (0, 0)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7279191;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:41;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:38:"SHOW FULL COLUMNS FROM `forest_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.731293;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:38:"SHOW FULL COLUMNS FROM `forest_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.740447;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'forest_factor' AND kcu.table_name = 'forest_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7437699;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:44;a:5:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'forest_factor' AND kcu.table_name = 'forest_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7462311;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:76:"INSERT INTO `forest_factor` (`FFMC`, `DMC`, `DC`, `ISI`) VALUES (0, 0, 0, 0)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7489231;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:48;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:47;a:5:{i:0;s:76:"INSERT INTO `forest_factor` (`FFMC`, `DMC`, `DC`, `ISI`) VALUES (0, 0, 0, 0)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7881689;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:48;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:49;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `date_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7913749;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:50;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `date_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.799907;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:52;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'date_factor' AND kcu.table_name = 'date_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.8024189;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'date_factor' AND kcu.table_name = 'date_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.804477;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:66:"INSERT INTO `date_factor` (`month`, `day`) VALUES ('month', 'day')";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.808048;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:53;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:56;a:5:{i:0;s:66:"INSERT INTO `date_factor` (`month`, `day`) VALUES ('month', 'day')";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.849746;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:53;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}}}s:2:"db";a:1:{s:8:"messages";a:30:{i:13;a:5:{i:0;s:20:"SELECT * FROM `main`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4566331;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:20:"SELECT * FROM `main`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.462821;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `main`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4636271;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `main`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.466862;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'main' AND kcu.table_name = 'main'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.468647;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'main' AND kcu.table_name = 'main'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.4692421;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:24;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `climate_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.5769751;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:39:"SHOW FULL COLUMNS FROM `climate_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.5802331;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'climate_factor' AND kcu.table_name = 'climate_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.58125;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'climate_factor' AND kcu.table_name = 'climate_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.581913;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:32;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:79:"INSERT INTO `climate_factor` (`temp`, `RH`, `rain`, `wind`) VALUES (0, 0, 0, 0)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.613066;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:36;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:79:"INSERT INTO `climate_factor` (`temp`, `RH`, `rain`, `wind`) VALUES (0, 0, 0, 0)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.671982;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:36;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `space_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6771309;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:37:"SHOW FULL COLUMNS FROM `space_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6850729;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'space_factor' AND kcu.table_name = 'space_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.687063;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'space_factor' AND kcu.table_name = 'space_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.6886079;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:39;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:51:"INSERT INTO `space_factor` (`X`, `Y`) VALUES (0, 0)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.6914821;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:41;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:51:"INSERT INTO `space_factor` (`X`, `Y`) VALUES (0, 0)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7279191;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:41;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:38:"SHOW FULL COLUMNS FROM `forest_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.731293;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:38:"SHOW FULL COLUMNS FROM `forest_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.740447;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'forest_factor' AND kcu.table_name = 'forest_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7437699;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:44;a:5:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'forest_factor' AND kcu.table_name = 'forest_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7462311;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:44;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:76:"INSERT INTO `forest_factor` (`FFMC`, `DMC`, `DC`, `ISI`) VALUES (0, 0, 0, 0)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7489231;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:48;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:47;a:5:{i:0;s:76:"INSERT INTO `forest_factor` (`FFMC`, `DMC`, `DC`, `ISI`) VALUES (0, 0, 0, 0)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.7881689;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:48;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:49;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `date_factor`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.7913749;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:50;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `date_factor`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.799907;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:52;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'date_factor' AND kcu.table_name = 'date_factor'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.8024189;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'date_factor' AND kcu.table_name = 'date_factor'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1481426626.804477;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:51;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:66:"INSERT INTO `date_factor` (`month`, `day`) VALUES ('month', 'day')";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.808048;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:53;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}i:56;a:5:{i:0;s:66:"INSERT INTO `date_factor` (`month`, `day`) VALUES ('month', 'day')";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1481426626.849746;i:4;a:1:{i:0;a:5:{s:4:"file";s:58:"D:\wamp\www\Eclass\frontend\controllers\TestController.php";s:4:"line";i:53;s:8:"function";s:6:"insert";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:8:"timeline";a:2:{s:5:"start";d:1481426626.403707;s:3:"end";d:1481426626.899214;}s:7:"summary";a:9:{s:3:"tag";s:13:"584cc6c269f37";s:3:"url";s:58:"http://localhost/Eclass/frontend/web/index.php?r=test/test";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";i:1481426626;s:10:"statusCode";i:500;s:8:"sqlCount";i:15;s:9:"mailCount";i:0;}}
